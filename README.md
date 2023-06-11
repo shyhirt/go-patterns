@@ -3,7 +3,7 @@
   <h1 align="center">
     Go Patterns
     <br>
-    <a href="https://github.com/tmrts/go-patterns/blob/master/LICENSE" ><img alt="license" src="https://img.shields.io/badge/license-Apache%20License%202.0-E91E63.svg?style=flat-square" /></a>
+    <a href="https://github.com/shyhirt/go-patterns/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/license-Apache%20License%202.0-E91E63.svg?style=flat-square" /></a>
   </h1>
 </p>
 
